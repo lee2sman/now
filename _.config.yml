@@ -1,3 +1,4 @@
+theme: lee2sman/minimal-uni
 plugins:
   - jekyll-relative-links
 relative_links:
