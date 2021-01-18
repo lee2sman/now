@@ -20,9 +20,6 @@ body {
     margin-right:auto;
 }
 
-h1:before {
-    content: "➡ ";
-}
 h1 {
     margin-top: 10px;
     background-color: white;
@@ -77,6 +74,10 @@ strong em u {
     line-height: 140%;
 }
 
+a:hover {
+    text-decoration: none;
+    border-bottom: 1px dotted;
+}
 /************* (strikethrough) ***********/
 s {
     line-height: 0px !important;
@@ -106,8 +107,6 @@ strong em u {
     font-size: 150%;
     text-shadow: 2px 1px 1px #333;
 }
-
-
 
 h1 {
     color: black;
@@ -143,25 +142,6 @@ em {
         font-style: italic;
 }
 
-a:link {
-    color: #333;
-    border-bottom: 1px solid white;
-    box-shadow: 0 1px 0 white;
-    font-weight: bold;
-}
-
-a:visited {
-    font-weight: bold;
-    color: #777;
-    border-bottom-color: black !important;
-}
-
-a:hover {
-    font-weight: bold;
-    text-decoration-style: dashed;
-    border-bottom-color: black !important;
-}
-
 strong em u {
     background: #333 !important;
     color: white !important;
@@ -181,24 +161,6 @@ em u {
     font-style: none !important;
     text-decoration: none !important;
     font-size: 140%;
-}
-
-a:before {
-    content: "🔗";
-    margin-right: 6px;
-}
-
-a:hover {
-    text-decoration: none;
-    border-bottom: 1px dashed;
-}
-
-
-h2:before {
-    content: "🔔 ";
-}
-h3:before {
-    content: "📣 ";
 }
 
 h2, h3 {

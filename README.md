@@ -16,7 +16,7 @@ I organize the Babycastles Academy workshops: low-cost or free online workshops 
 
 ## January 2021
 
-#### [LeeSD Dream Emulator](LeeSD-Dream-Emulator)
+#### [LeeSD Dream Emulator](LeeSD-Dream-Emulator/)
 
 Started coding generative sketches of my dreams. An homage to LSD Dream Emulator, which I'm waiting to actually try playing until after I code my own. I've started with a few dream sketches: [1](https://leetusman.com/everyday/161/) [2](https://leetusman.com/everyday/163/)
 
