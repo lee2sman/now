@@ -1,5 +1,7 @@
 # NOW
 
+*working projects log*
+
 #### [Artists and Hackers](https://artistsandhackers.org)
 
 A [podcast](https://www.artistsandhackers.org) that I'm hosting.
