@@ -1,3 +1,6 @@
+
+[back to now](../)
+
 # LeeSD Dream Emulator
 
 Based on an idea that percolated up from the back of my mind, as all good art ideas do (?). I have not played the original 1998 beloved and cult classic LSD Dream Emulator by Osamu Sato as far as I can remember. But I have watched youtube videos, read numerous articles, and it remains hugely influential. I decided to download a Playstation Emulator to try it out, but before I do so, I will create my own *dream emulator*, based on my own dreams.
