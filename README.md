@@ -16,7 +16,7 @@ I've created an esoteric modular synth setup for generative music creation, incl
 
 ### Babycastles 
 
-I organize the Babycastles Academy workshops: low-cost or free online workshops on a variety of topics of interest to our community. We've held 25+ workshops so far since the start of the pandemic. Topics: livecoding, game design, goal-setting, writing grants, protester safety, and more.  [Video archive](https://www.youtube.com/playlist?list=PLJzpMnmDTJIUBNOpzI5qdPJ1cXhITBSq-) [Notes](https://github.com/babycastles/Babycastles-Academy). Received a grant from the NYC Dep't of Cultural Affairs. I also help organize the collective and community, and co-organized our new - - - in - Residency Program supported by Max Neely-Cohen.
+I'm a member of the Babycastles organizing collective that helps run the space and put together public programs.  I organize the Babycastles Academy workshops: low-cost or free online workshops on a variety of topics of interest to our community. We've held 25+ workshops so far since the start of the pandemic. Topics: livecoding, game design, goal-setting, writing grants, protester safety, and more.  [Video archive](https://www.youtube.com/playlist?list=PLJzpMnmDTJIUBNOpzI5qdPJ1cXhITBSq-) [Notes](https://github.com/babycastles/Babycastles-Academy). Received a grant from the NYC Dep't of Cultural Affairs. I also help organize the collective and community, and co-organized our new - - - in - Residency Program supported by Max Neely-Cohen.
 
 # THEN
 
