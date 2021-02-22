@@ -22,6 +22,10 @@ I'm a member of the Babycastles organizing collective that helps run the space a
 
 ## February 2021
 
+### [List of Games I'd Like to Play and/or Make](https://notapipe.itch.io/games-id-like-to-play-andor-make)  
+
+for [List Jam](https://itch.io/jam/list-jam)
+
 ### Geminut
 
 Created [Geminut](https://tildegit.org/exquisitecorp), a Gemini protocol to HTML and Markdown converter for translating a gemlog to a blog, website, documentation, etc
