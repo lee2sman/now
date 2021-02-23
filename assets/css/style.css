@@ -160,9 +160,9 @@ em u {
 }
 
 h2, h3 {
-    display: inline-block; 
+    margin-top: 10px;
     background-color: white;
-    border-bottom: 2px solid;
+    /* border-bottom: 2px solid; */
 }
 
 
