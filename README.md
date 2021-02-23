@@ -1,6 +1,6 @@
 # NOW
 
-*working projects log*
+*working projects log* 
 
 ### Teaching
 
