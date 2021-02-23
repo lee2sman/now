@@ -1,12 +1,14 @@
 # NOW
 
+=> [home](..)
+
 *working projects log* 
 
 ### Teaching
 
-I'm a professor of New Media and Computer Science at Purchase College.
+I'm a professor of New Media and Computer Science at [Purchase College](https://www.purchase.edu/live/profiles/2060-lee-tusman).
 
-### [Artists and Hackers](https://artistsandhackers.org)
+### Artists and Hackers
 
 A [podcast](https://www.artistsandhackers.org) that I'm hosting.
 
@@ -16,7 +18,7 @@ I've created an esoteric modular synth setup for generative music creation, incl
 
 ### Babycastles 
 
-I'm a member of the Babycastles organizing collective that helps run the space and put together public programs.  I organize the Babycastles Academy workshops: low-cost or free online workshops on a variety of topics of interest to our community. We've held 25+ workshops so far since the start of the pandemic. Topics: livecoding, game design, goal-setting, writing grants, protester safety, and more.  [Video archive](https://www.youtube.com/playlist?list=PLJzpMnmDTJIUBNOpzI5qdPJ1cXhITBSq-) [Notes](https://github.com/babycastles/Babycastles-Academy). Received a grant from the NYC Dep't of Cultural Affairs. I also help organize the collective and community, and co-organized our new - - - in - Residency Program supported by Max Neely-Cohen.
+[Babycastles](https://www.babycastles.com) is a 10+ year NYC based collective fostering and amplifying diverse voices in videogame culture. We have an art space in Union Square, Manhattan, and are active online. I'm part of the organizing collective that helps run the space and puts together public programs. I currently organize the Babycastles Academy workshops: low-cost or free online workshops on a variety of topics of interest to our community. We've held 25+ workshops so far since the start of the pandemic. Topics: livecoding, game design, goal-setting, writing grants, protester safety, and more.  [Video archive](https://www.youtube.com/playlist?list=PLJzpMnmDTJIUBNOpzI5qdPJ1cXhITBSq-) [Notes](https://github.com/babycastles/Babycastles-Academy). We were awarded a grant from the NYC Dep't of Cultural Affairs. I also help organize our new - - - in - Residency Program supported by Max Neely-Cohen.
 
 # THEN
 
