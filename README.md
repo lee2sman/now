@@ -22,6 +22,12 @@ I've created an esoteric modular synth setup for generative music creation, incl
 
 # THEN
 
+## March 2021
+
+Dungeon of the Day / Embarassed Cake Watering Hole
+
+This is an (incomplete) entry to the 7drl / seven day roguelike challenge 2021. I kept a [devlog](http://ctrl-c.club/~lettuce/7drl-2021/).
+
 ## February 2021
 
 ### [List of Games I'd Like to Play and/or Make](https://notapipe.itch.io/games-id-like-to-play-andor-make)  
