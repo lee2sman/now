@@ -1,8 +1,7 @@
-# NOW
-
-=> [home](..)
 
 *working projects log* 
+
+=> [home](..)
 
 ### Teaching
 
