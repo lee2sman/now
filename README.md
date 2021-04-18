@@ -26,6 +26,8 @@ I've created an esoteric modular synth setup for generative music creation, incl
 
 [facsimiles](https://exquisitecorp.bandcamp.com/album/facsimiles) is an album of generated music created on modular synth and code (monome teletype), inspired by a 1970s Triadex Muse machine and the first chat bot I ever interacted with (Alfie) on a public MUSH on the internet in the mid 90s.
 
+[Slimey](https://github.com/makeworld-the-better-one/amfora/blob/master/contrib/themes/README.md) - I contributed a theme for Amfora, a great command line Gemini client
+
 ## March 2021
 
 [Gobi](https://notapipe.itch.io/gobi) is a minimal desert adventure game in the lineage of early strategy games like The Oregon Trail. It is based on my memories of a shareware game I used to play on my Mac System 7 in the mid-90s, a game that came on a CD-Rom with 100 other games. 
