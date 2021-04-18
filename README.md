@@ -22,11 +22,15 @@ I've created an esoteric modular synth setup for generative music creation, incl
 
 # THEN
 
+## April 2021
+
+[facsimiles](https://exquisitecorp.bandcamp.com/album/facsimiles) is an album of generated music created on modular synth and code (monome teletype), inspired by a 1970s Triadex Muse machine and the first chat bot I ever interacted with (Alfie) on a public MUSH on the internet in the mid 90s.
+
 ## March 2021
 
-Dungeon of the Day / Embarassed Cake Watering Hole
+[Gobi](https://notapipe.itch.io/gobi) is a minimal desert adventure game in the lineage of early strategy games like The Oregon Trail. It is based on my memories of a shareware game I used to play on my Mac System 7 in the mid-90s, a game that came on a CD-Rom with 100 other games. 
 
-This is an (incomplete) entry to the 7drl / seven day roguelike challenge 2021. I kept a [devlog](http://ctrl-c.club/~lettuce/7drl-2021/).
+[Dungeon of the Day](https://tildegit.org/exquisitecorp/dungeon-of-the-day) / Embarassed Cake Watering Hole is an (incomplete) entry to the 7drl / seven day roguelike challenge 2021 and still in progress: [devlog](https://tildegit.org/exquisitecorp/dungeon-of-the-day).
 
 ## February 2021
 
