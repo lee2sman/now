@@ -27,13 +27,13 @@ Self-Doubting System - new work commissioned for the online exhibit [Generative 
 
 [facsimiles](https://exquisitecorp.bandcamp.com/album/facsimiles) is an album of generated music created on modular synth and code (monome teletype), inspired by a 1970s Triadex Muse machine and the first chat bot I ever interacted with (Alfie) on a public MUSH on the internet in the mid 90s. *[additional info](https://leetusman.com/algoraves/2021-04-15-triadex-muse.html)*
 
-[Slimey](https://github.com/makeworld-the-better-one/amfora/blob/master/contrib/themes/README.md) - I contributed a theme for Amfora, a great command line Gemini client
+[Slimey](https://github.com/makeworld-the-better-one/amfora/blob/master/contrib/themes/README.md) is a theme I contributed for the Amfora Gemini client
 
 ## March 2021
 
 [Gobi](https://notapipe.itch.io/gobi) is a minimal desert adventure game in the lineage of early strategy games like The Oregon Trail. It is based on my memories of a shareware game I used to play on my Mac System 7 in the mid-90s, a game that came on a CD-Rom with 100 other games. *[additional info/code](https://tildegit.org/exquisitecorp/gobi)
 
-[Dungeon of the Day](https://tildegit.org/exquisitecorp/dungeon-of-the-day) / Embarassed Cake Watering Hole is an (incomplete) entry to the 7drl / seven day roguelike challenge 2021 and still in progress: [devlog](https://tildegit.org/exquisitecorp/dungeon-of-the-day).
+[Dungeon of the Day](https://tildegit.org/exquisitecorp/dungeon-of-the-day) / Embarassed Cake Watering Hole *(working title)* is an (incomplete) entry to the 7drl / seven day roguelike challenge 2021 and still in progress: [devlog](https://tildegit.org/exquisitecorp/dungeon-of-the-day)
 
 ## February 2021
 
@@ -61,7 +61,7 @@ In the spring I created a web-based Obscure Instructions program, an homage to O
 
 ### [LeeSD Dream Emulator](LeeSD-Dream-Emulator/)
 
-Started coding generative sketches of my dreams. An homage to LSD Dream Emulator, which I'm waiting to actually try playing until after I code my own. I've started with a few dream sketches: [1](https://leetusman.com/everyday/161/) [2](https://leetusman.com/everyday/163/)
+Started coding generative sketches of my dreams. An homage to LSD Dream Emulator, which I'm waiting to actually try playing until after I code my own. I've started with a few generative dream sketches: [1](https://leetusman.com/everyday/161/) [2](https://leetusman.com/everyday/163/)
 
 ## December 2020
 
@@ -71,4 +71,4 @@ I created a generative self-playing project called Self-Doubting Systems for MIT
 
 ## November 2020
 
-I contributed two (very) short tabletop roleplaying games to the [Micro Fiction Games Jam](https://microfictiongames.neocities.org/2020/).
+I contributed two (very) short tabletop roleplaying games to the [Micro Fiction Games Jam](https://microfictiongames.neocities.org/2020/)
