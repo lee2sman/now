@@ -21,6 +21,14 @@ I've created an esoteric modular synth setup for generative music creation, incl
 
 # THEN
 
+## June 2021
+
+Working on new Artists and Hackers episodes and the Space project collabo detailed below.
+
+## May 2021
+
+Working on a digital archive, oral history and zine-making software collaboratively with [Space 1026](https://space1026.com/) in Philadelphia. A project while at NEW INC, with support from Knight Arts Foundation.
+
 ## April 2021
 
 Self-Doubting System - new work commissioned for the online exhibit [Generative Unfoldings](https://generative-unfoldings.mit.edu/) by the MIT Center for Art, Science and Technology
@@ -59,7 +67,7 @@ IPDW, working with Arebyte AOS has organized an online art homepage fair. I buil
 
 In the spring I created a web-based Obscure Instructions program, an homage to Oblique Strategies by Brian Eno / Peter Schmidt. [Obscure Instructions MOTD](https://tildegit.org/exquisitecorp/obscure-instructions-motd) is a command line "Message of the Day" node program to display one randomly as a "welcome" message.
 
-### [LeeSD Dream Emulator](LeeSD-Dream-Emulator/)
+### LeeSD Dream Emulator
 
 Started coding generative sketches of my dreams. An homage to LSD Dream Emulator, which I'm waiting to actually try playing until after I code my own. I've started with a few generative dream sketches: [1](https://leetusman.com/everyday/161/) [2](https://leetusman.com/everyday/163/)
 
