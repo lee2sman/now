@@ -23,7 +23,11 @@ I've created an esoteric modular synth setup for generative music creation, incl
 
 ## June 2021
 
-Working on new Artists and Hackers episodes and the Space project collabo detailed below.
+[A Throw of the Text](https://taper.badquar.to/6/throw_of_the_text.html) is in the current edition of Taper, the online literary magazine for small computational pieces, published by Bad Quarto. "Each of the poems in Taper #6 is licensed as free software for you to use, study, modify, and share however you like."
+
+> Brion Gysin let the mice in; Taper #6 lets the dice out. This issue offers 26 computational poems engaging with chance and the number six, many of which pay tribute to Un coup de dés.
+
+I am also continuing work on new Artists and Hackers episodes and the Space project collabo, both detailed below.
 
 ## May 2021
 
