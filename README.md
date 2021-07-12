@@ -21,6 +21,10 @@ I've created an esoteric modular synth setup for generative music creation, incl
 
 # THEN
 
+## July 2021
+
+Built [minilog](https://tildegit.org/exquisitecorp/minilog), a tiny CLI journaling program intended for shorter notes on what I'm doing, to look back in future years. It's a very simple fish shell script.
+
 ## June 2021
 
 [A Throw of the Text](https://taper.badquar.to/6/throw_of_the_text.html) is in the current edition of Taper, the online literary magazine for small computational pieces, published by Bad Quarto. "Each of the poems in Taper #6 is licensed as free software for you to use, study, modify, and share however you like."
