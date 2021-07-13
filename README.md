@@ -23,6 +23,8 @@ I've created an esoteric modular synth setup for generative music creation, incl
 
 ## July 2021
 
+Built [vwscratchpad](https://tildegit.org/exquisitecorp/vwscratchpad), a minimal scratchpad tool to launch from within Vim / Neovim editor when you need a quick scratchpad.
+
 Built [minilog](https://tildegit.org/exquisitecorp/minilog), a tiny CLI journaling program intended for shorter notes on what I'm doing, to look back in future years. It's a very simple fish shell script.
 
 ## June 2021
