@@ -23,7 +23,7 @@ I've created an esoteric modular synth setup for generative music creation, incl
 
 ## July 2021
 
-Build [gemstats](https://tildegit.org/exquisitecorp/gemstats) for [Ctrl-C Club](https://ctrl-c.club/) tilde and it's already in use! It gives very basic statistics for readers of one's personal gemlog as well as our tilde community as a whole. As of today we've had over 150k readers.
+Built [gemstats](https://tildegit.org/exquisitecorp/gemstats) for [Ctrl-C Club](https://ctrl-c.club/) tilde and it's already in use! It gives very basic statistics for readers of one's personal gemlog as well as our tilde community as a whole. As of today we've had over 150k readers.
 
 Built [vwscratchpad](https://tildegit.org/exquisitecorp/vwscratchpad), a minimal scratchpad tool to launch from within Vim / Neovim editor when you need a quick scratchpad. Also runs in browser so I use it as a phone/tablet sketching tool.
 
