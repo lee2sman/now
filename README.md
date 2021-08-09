@@ -17,13 +17,19 @@ I've created an esoteric modular synth setup for generative music creation, incl
 
 ### Babycastles 
 
-[Babycastles](https://www.babycastles.com) is a 10+ year NYC based collective fostering and amplifying diverse voices in videogame culture. We have an art space in Union Square, Manhattan, and are active online. I'm part of the organizing collective that helps run the space and puts together public programs. I currently organize the Babycastles Academy workshops: low-cost or free online workshops on a variety of topics of interest to our community. We've held 25+ workshops so far since the start of the pandemic. Topics: livecoding, game design, goal-setting, writing grants, protester safety, and more.  [Video archive](https://www.youtube.com/playlist?list=PLJzpMnmDTJIUBNOpzI5qdPJ1cXhITBSq-) [Notes](https://github.com/babycastles/Babycastles-Academy). We were awarded a grant from the NYC Dep't of Cultural Affairs. I also help organize our new - - - in - Residency Program supported by Max Neely-Cohen.
+[Babycastles](https://www.babycastles.com) is a 10+ year NYC based collective fostering and amplifying diverse voices in videogame culture. We have an art space in Union Square, Manhattan, and are active online. I'm part of the organizing collective that helps run the space and puts together public programs. I currently organize the Babycastles Academy workshops: low-cost or free online workshops on a variety of topics of interest to our community. We've held 25+ workshops so far since the start of the pandemic. Topics: livecoding, game design, goal-setting, writing grants, protester safety, and more.  [Video archive](https://www.youtube.com/playlist?list=PLJzpMnmDTJIUBNOpzI5qdPJ1cXhITBSq-) [Notes](https://github.com/babycastles/Babycastles-Academy). We were awarded a grant from the NYC Dep't of Cultural Affairs. I also help organize our new  - - - aka (blank) - in - Residency Program supported by Max Neely-Cohen.
 
 # THEN
 
+## August 2021
+
+Leading [Open Source Tools for Artists](https://www.aros.dk/da/besoeg/kalender/open-source-tools-for-artists/) in collaboration with Code & Share [] Aarhus and CANTINA collective. Part of the Flux Factory residency at [ARoS Public](https://www.aros.dk/en/learning/about-aros-public/).
+
+Created some small software for the [Ctrl-C Club](https://ctrl-c.club/) tilde group.
+
 ## July 2021
 
-Built [bookmobile](https://tildegit.org/exquisitecorp/bookmobile) to download articles from the web, run them through readability, then save as cleaned minimal html, markdown and epub files. The goal is to make it easily to create a personal archive of articles and other things from the web, and outside the confines of the commercial service Pocket from Mozilla.
+Built [bookmobile](https://tildegit.org/exquisitecorp/bookmobile) to download articles from the web, run them through readability (removes ads, sidebars, etc), then save as cleaned minimal html, markdown and epub files. The goal is to make it easy to create a personal archive of articles and other things from the web, and outside the confines of the commercial services of products like Pocket. I have a 10 year old ebook reader (Nook Simple Touch) and this quickly converts articles and books for easy reading on my e-reader.
 
 Built [gemstats](https://tildegit.org/exquisitecorp/gemstats) for [Ctrl-C Club](https://ctrl-c.club/) tilde and it's already in use! It gives very basic statistics for readers of one's personal gemlog as well as our tilde community as a whole. As of today we've had over 150k readers.
 
