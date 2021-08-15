@@ -23,7 +23,7 @@ I've created an esoteric modular synth setup for generative music creation, incl
 
 ## August 2021
 
-Leading [Open Source Tools for Artists](https://www.aros.dk/da/besoeg/kalender/open-source-tools-for-artists/) in collaboration with Code & Share [] Aarhus and CANTINA collective. Part of the Flux Factory residency at [ARoS Public](https://www.aros.dk/en/learning/about-aros-public/).
+Co-organized workshop [Open Source Tools for Artists](https://www.aros.dk/da/besoeg/kalender/open-source-tools-for-artists/) in collaboration with Code & Share [] Aarhus and CANTINA collective. Part of the Flux Factory residency at [ARoS Public](https://www.aros.dk/en/learning/about-aros-public/). Produced a [digital zine](http://open-source-tools-for-artists.glitch.me/) resulting from the workshop.
 
 Created some small software for the [Ctrl-C Club](https://ctrl-c.club/) tilde group.
 
