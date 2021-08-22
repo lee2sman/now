@@ -3,6 +3,8 @@
 
 => [home](..)
 
+Currently an artist-in-resident with [Flux Factory](https://www.fluxfactory.org/welcometofluxisland/) on Governor's Island in New York.
+
 ### Teaching
 
 I'm a professor of New Media and Computer Science at [Purchase College](https://www.purchase.edu/live/profiles/2060-lee-tusman).
@@ -23,7 +25,9 @@ I've created an esoteric modular synth setup for generative music creation, incl
 
 ## August 2021
 
-Co-organized workshop [Open Source Tools for Artists](https://www.aros.dk/da/besoeg/kalender/open-source-tools-for-artists/) in collaboration with Code & Share [] Aarhus and CANTINA collective. Part of the Flux Factory residency at [ARoS Public](https://www.aros.dk/en/learning/about-aros-public/). Produced a [digital zine](http://open-source-tools-for-artists.glitch.me/) resulting from the workshop.
+Beginning art residency with Flux Factory on Governor's Island, NY.
+
+Co-organized workshop [Open Source Tools for Artists](https://www.aros.dk/da/besoeg/kalender/open-source-tools-for-artists/) in collaboration with Code & Share [] Aarhus and CANTINA collective. Part of the Flux Factory residency at [ARoS Public](https://www.aros.dk/en/learning/about-aros-public/) in Denmark. Produced a [digital zine](http://open-source-tools-for-artists.glitch.me/) resulting from the workshop.
 
 Created some small software for the [Ctrl-C Club](https://ctrl-c.club/) tilde group.
 
