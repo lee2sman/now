@@ -23,9 +23,13 @@ I've created an esoteric modular synth setup for generative music creation, incl
 
 # THEN
 
-## August 2021
+## Fall 2021
 
-Beginning art residency with Flux Factory on Governor's Island, NY.
+I'm a fellow at [NYU's Engelberg Center](https://www.law.nyu.edu/centers/engelberg/team) on Innovation Law and Policy. As part of this fellowship I will expand new episodes on the digital commons on the Artists and Hackers podcast.
+
+Art residency with Flux Factory on Governor's Island, NY. Visit [Flux Factory](https://www.fluxfactory.org/) for a full listing of open studios, performances and other events. I am presenting work and performing generative music on September 8 - September 10 (open studios) and a [performance](https://www.fluxfactory.org/event/amphoras-amorpha-with-sally-beauty-twin/2021-10-16/) on October 16. 
+
+## August 2021
 
 Co-organized workshop [Open Source Tools for Artists](https://www.aros.dk/da/besoeg/kalender/open-source-tools-for-artists/) in collaboration with Code & Share [] Aarhus and CANTINA collective. Part of the Flux Factory residency at [ARoS Public](https://www.aros.dk/en/learning/about-aros-public/) in Denmark. Produced a [digital zine](http://open-source-tools-for-artists.glitch.me/) resulting from the workshop.
 
