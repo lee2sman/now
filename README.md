@@ -33,8 +33,6 @@ I'm a fellow at [NYU's Engelberg Center](https://www.law.nyu.edu/centers/engelbe
 
 I was an artist-in-resident with [Flux Factory](https://www.fluxfactory.org/welcometofluxisland/) on Governor's Island in New York. I presented work during open studios, performed generative music at a drawing program, and work and performing [performed](https://www.fluxfactory.org/event/amphoras-amorpha-with-sally-beauty-twin/2021-10-16/) in Amphoras Amorpha. 
 
-Built Bookmobile, software to download articles from the web and save them offline as readable articles (stripped of all sidebars, headers, footers, ads), epub, markdown and various themes outputs. I have been using this for the past 6 months to grab articles and convert them to epub to read on my offline 10-year old e-ink e-reader.
-
 ## August 2021
 
 Co-organized workshop [Open Source Tools for Artists](https://www.aros.dk/da/besoeg/kalender/open-source-tools-for-artists/) in collaboration with Code & Share [] Aarhus and CANTINA collective. Part of the Flux Factory residency at [ARoS Public](https://www.aros.dk/en/learning/about-aros-public/) in Denmark. Produced a [digital zine](http://open-source-tools-for-artists.glitch.me/) resulting from the workshop.
