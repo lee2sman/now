@@ -3,19 +3,22 @@
 
 => [home](..)
 
-Currently an artist-in-resident with [Flux Factory](https://www.fluxfactory.org/welcometofluxisland/) on Governor's Island in New York.
+### Fellow at NYU Engelberg Center
+I am a fellow at the [NYU Engelberg Center](https://www.law.nyu.edu/centers/engelberg/team) on Innovation Law and Policy. As part of this fellowship I will expand new episodes on the digital commons on the Artists and Hackers podcast.
 
-### Teaching
+### Research / Organizing
 
-I'm a professor of New Media and Computer Science at [Purchase College](https://www.purchase.edu/live/profiles/2060-lee-tusman).
+I'm a professor of New Media and Computer Science at [Purchase College](https://www.purchase.edu/live/profiles/2060-lee-tusman). I'm currently on junior sabbatical.
+
+As part of my sabbatical I am working on developing tools for DIY arts organizations and assisting in archiving, oral history, photogrammetry and other projects.
+
+### Code sketching
+
+For the past 3 years I've engaged in [code sketching](https://leetusman.com/everyday/), sometimes daily, other times weekly or monthly. Many of these are generative projects. Some of these turn into completed projects for public presentation or exhibition.
 
 ### Artists and Hackers
 
 A [podcast](https://www.artistsandhackers.org) that I'm hosting.
-
-### ExquisiteCorp: generative music systems
-
-I've created an esoteric modular synth setup for generative music creation, including a Teletype terminal that I code modular Turing Machines in. So far it's resulted in a number of [albums](https://exquisitecorp.bandcamp.com/) on Bandcamp but I hope to get up a site with more on the system, instructions, code. I wrote a [post](https://leetusman.com/nosebook/programing-patching) on my Nosebook about it.
 
 ### Babycastles 
 
@@ -27,7 +30,7 @@ I've created an esoteric modular synth setup for generative music creation, incl
 
 I'm a fellow at [NYU's Engelberg Center](https://www.law.nyu.edu/centers/engelberg/team) on Innovation Law and Policy. As part of this fellowship I will expand new episodes on the digital commons on the Artists and Hackers podcast.
 
-Art residency with Flux Factory on Governor's Island, NY. Visit [Flux Factory](https://www.fluxfactory.org/) for a full listing of open studios, performances and other events. I am presenting work and performing generative music on September 8 - September 10 (open studios) and a [performance](https://www.fluxfactory.org/event/amphoras-amorpha-with-sally-beauty-twin/2021-10-16/) on October 16. 
+I was an artist-in-resident with [Flux Factory](https://www.fluxfactory.org/welcometofluxisland/) on Governor's Island in New York. I presented work during open studios, performed generative music at a drawing program, and work and performing [performed](https://www.fluxfactory.org/event/amphoras-amorpha-with-sally-beauty-twin/2021-10-16/) in Amphoras Amorpha. 
 
 ## August 2021
 
@@ -108,3 +111,13 @@ I created a generative self-playing project called Self-Doubting Systems for MIT
 ## November 2020
 
 I contributed two (very) short tabletop roleplaying games to the [Micro Fiction Games Jam](https://microfictiongames.neocities.org/2020/)
+
+## Etc
+
+### ExquisiteCorp: generative music systems
+
+I've created an esoteric modular synth setup for generative music creation, including a Teletype terminal that I code modular Turing Machines in. So far it's resulted in a number of [albums](https://exquisitecorp.bandcamp.com/) on Bandcamp but I hope to get up a site with more on the system, instructions, code. I wrote a [post](https://leetusman.com/nosebook/programing-patching) on my Nosebook about it.
+
+### Teaching
+
+I'm a professor of New Media and Computer Science at [Purchase College](https://www.purchase.edu/live/profiles/2060-lee-tusman). I'm currently on junior sabbatical.
