@@ -10,7 +10,7 @@ I am a fellow at the [NYU Engelberg Center](https://www.law.nyu.edu/centers/enge
 
 I'm a professor of New Media and Computer Science at [Purchase College](https://www.purchase.edu/live/profiles/2060-lee-tusman). I'm currently on junior sabbatical.
 
-As part of my sabbatical I am working on developing tools for DIY arts organizations and assisting in archiving, oral history, photogrammetry and other projects.
+As part of my sabbatical I am working on developing tools for DIY arts organizations and assisting in archiving, oral history, photogrammetry and other projects. See [ongoing project notes](https://github.com/lee2sman/archiving-artist-spaces/).
 
 ### Code sketching
 
@@ -26,7 +26,7 @@ A [podcast](https://www.artistsandhackers.org) that I'm hosting.
 
 # THEN
 
-## Winter 2022
+## Spring 2022
 
 Residency at [Plexus Projects](https://www.plexusprojects.org/) in Brooklyn.
 
