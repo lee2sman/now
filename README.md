@@ -36,7 +36,7 @@ Organize and perform and present sound installations for Aleatoric Audio for an 
 
 Rest.
 
-Begun Flux Factory residency on Governor's Island.
+Begin Flux Factory residency on Governor's Island.
 
 ## March 2022 
 
@@ -50,7 +50,7 @@ Quiltfolk in 'Videogames where you can walk around and talk to people' at Wonder
 
 Research artist-run spaces and archives (Los Angeles Contemporary Archive, Elevator Mondays interviews) in Los Angeles.
 
-Bad Concussion! 
+😵 Bad Concussion!
 
 ## Spring 2022
 
