@@ -26,6 +26,32 @@ A [podcast](https://www.artistsandhackers.org) that I'm hosting.
 
 # THEN
 
+## May 2022
+
+[DroneJam](https://itch.io/jam/drone) participant.
+
+Organize and perform and present sound installations for Aleatoric Audio for an Infinite Island on Governor's Island.
+
+## April 2022
+
+Rest.
+
+Begun Flux Factory residency on Governor's Island.
+
+## March 2022 
+
+Rest
+
+Guest critic at The New School
+
+Quiltfolk in 'Videogames where you can walk around and talk to people' at Wonderville
+
+## February 2022
+
+Research artist-run spaces and archives (Los Angeles Contemporary Archive, Elevator Mondays interviews) in Los Angeles.
+
+Bad Concussion! 
+
 ## Spring 2022
 
 Residency at [Plexus Projects](https://www.plexusprojects.org/) in Brooklyn.
@@ -35,7 +61,6 @@ Updates to [Bookmobile](https://tildegit.org/exquisitecorp/bookmobile) software.
 Sabbatical begins. Working on archiving DIY artist spaces and communities, particularly their web presence and output on proprietary platforms such as photo distribution on social media, oral histories, photogrammetry.
 
 Working on Bigrot photo manipulation print software emulating classic photocopying effects.
-
 
 ## Fall 2021
 
