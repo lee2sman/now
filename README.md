@@ -28,7 +28,7 @@ A [podcast](https://www.artistsandhackers.org) that I'm hosting.
 
 ## May 2022
 
-[DroneJam](https://itch.io/jam/drone) participant.
+[DroneJam](https://itch.io/jam/drone) participant. I created the generative sound-strument [Drone Collector](https://notapipe.itch.io/drone-collector) during the jam and shared in presentation for the A. MAZE./Berlin 11th International Games and Playful Media Festival online.
 
 Organize and perform and present sound installations for Aleatoric Audio for an Infinite Island on Governor's Island.
 
