@@ -30,11 +30,9 @@ A [podcast](https://www.artistsandhackers.org) that I'm hosting.
 
 [DroneJam](https://itch.io/jam/drone) participant. I created the generative sound-strument [Drone Collector](https://notapipe.itch.io/drone-collector) during the jam and shared in presentation for the A. MAZE./Berlin 11th International Games and Playful Media Festival online.
 
-Organize and perform and present sound installations for Aleatoric Audio for an Infinite Island on Governor's Island.
+Organize and perform and present sound installations for [Aleatoric Audio for an Infinite Island](https://www.fluxfactory.org/event/flux-saturday-aleatoric-audio/) on Governor's Island.
 
 ## April 2022
-
-Rest.
 
 Begin Flux Factory residency on Governor's Island.
 
