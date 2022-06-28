@@ -26,13 +26,15 @@ A [podcast](https://www.artistsandhackers.org) that I'm hosting.
 
 # THEN
 
+## June 2022
+
 ## May 2022
 
 [DroneJam](https://itch.io/jam/drone) participant. I created the generative sound-strument [Drone Collector](https://notapipe.itch.io/drone-collector) during the jam and shared in presentation for the A. MAZE./Berlin 11th International Games and Playful Media Festival online.
 
 Organize and perform and present sound installations for [Aleatoric Audio for an Infinite Island](https://www.fluxfactory.org/event/flux-saturday-aleatoric-audio/) on Governor's Island.
 
-[Pomelo: A Yoko Ono 'Grapefruit' generato](https://collection.eliterature.org/4/pomelo-a-yoko-ono-grapefruit-generator), was created for NaNoGenMo 2019. It was selected for inclusion in the Electronic Literature Collection, Volume 4, *showcasing exemplary works of eliterature from 2016-2021*, launching in May 2022.
+[Pomelo: A Yoko Ono 'Grapefruit' generator](https://collection.eliterature.org/4/pomelo-a-yoko-ono-grapefruit-generator), was created for NaNoGenMo 2019. It was selected for inclusion in the Electronic Literature Collection, Volume 4, *showcasing exemplary works of eliterature from 2016-2021*, launching in May 2022.
 
 ## April 2022
 
