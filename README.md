@@ -3,30 +3,39 @@
 
 => [home](..)
 
-### Fellow at NYU Engelberg Center
-I am a fellow at the [NYU Engelberg Center](https://www.law.nyu.edu/centers/engelberg/team) on Innovation Law and Policy. As part of this fellowship I will expand new episodes on the digital commons on the Artists and Hackers podcast.
-
 ### Research / Organizing
 
-I'm a professor of New Media and Computer Science at [Purchase College](https://www.purchase.edu/live/profiles/2060-lee-tusman). I'm currently on junior sabbatical.
-
-As part of my sabbatical I am working on developing tools for DIY arts organizations and assisting in archiving, oral history, photogrammetry and other projects. See [ongoing project notes](https://github.com/lee2sman/archiving-artist-spaces/).
+I'm a professor of New Media and Computer Science at [Purchase College](https://www.purchase.edu/live/profiles/2060-lee-tusman). I am working on developing tools for DIY arts organizations and assisting in archiving, oral history, photogrammetry and other projects. See [ongoing project notes](https://github.com/lee2sman/archiving-artist-spaces/).
 
 ### Code sketching
 
-For the past 3 years I've engaged in [code sketching](https://leetusman.com/everyday/), sometimes daily, other times weekly or monthly. Many of these are generative projects. Some of these turn into completed projects for public presentation or exhibition.
+For the past 3 1/2 years I've engaged in [code sketching](https://leetusman.com/everyday/). Almost every day I work on my projects in a ‘code-sketching’ kind of way. Like a painter in their studio, I work on these sequentially, trying new things, iterating on past projects, or striking into new territory. Most often these are web-based artworks, but also archives, tools, zines, games or other experiments. Some of these grow into larger projects and others stay as small sketches.
 
 ### Artists and Hackers
 
-A [podcast](https://www.artistsandhackers.org) that I'm hosting.
+A [podcast](https://www.artistsandhackers.org) that I'm hosting. For Season 2 I worked with the Engelberg Center for Innovation Law and Policy.
 
 ### Babycastles 
 
-[Babycastles](https://www.babycastles.com) is a 10+ year NYC based collective fostering and amplifying diverse voices in videogame culture. We have an art space in Union Square, Manhattan, and are active online. I'm part of the organizing collective that helps run the space and puts together public programs. I currently organize the Babycastles Academy workshops: low-cost or free online workshops on a variety of topics of interest to our community. We've held 25+ workshops so far since the start of the pandemic. Topics: livecoding, game design, goal-setting, writing grants, protester safety, and more.  [Video archive](https://www.youtube.com/playlist?list=PLJzpMnmDTJIUBNOpzI5qdPJ1cXhITBSq-) [Notes](https://github.com/babycastles/Babycastles-Academy). We were awarded a grant from the NYC Dep't of Cultural Affairs. I also help organize our new  - - - aka (blank) - in - Residency Program supported by Max Neely-Cohen.
+[Babycastles](https://www.babycastles.com) is a 10+ year NYC based collective fostering and amplifying diverse voices in videogame culture. We've held 25+ workshops so far since the start of the pandemic. Topics: livecoding, game design, goal-setting, writing grants, protester safety, and more.  [Video archive](https://www.youtube.com/playlist?list=PLJzpMnmDTJIUBNOpzI5qdPJ1cXhITBSq-) 
 
 # THEN
 
+## August 2022
+
+I returned as resident with Flux Factory at ARoS Museum in Aarhus, Denmark, leading [Web World and Cooperative Computing community site](https://leetusman.com/web-world/) on August 4 at ARoS and Freewrite: Web Jam Session at Mixr on August 13. Both events were co-led with Anders Visti, co-presented with the organization Code&Share[], Aarhus. 
+
+I performed live coding music and a generative audiovisual software simulation work for [i would die 2 u](https://www.fluxfactory.org/event/i-would-die-2-u/) at the ARoS Museum auditorium, along with composer and instrument designer Daniel Fishkin on Daxophone with live electronics. 
+
+At ARoS I created the [Radio Free Aarhus](https://leetusman.com/everyday/250/) audiozine.
+
+## July 2022
+
+I spoke at Narrascope conference. My talk is [Fantasy Filing Systems: Interactive Narratives of the OS](https://www.youtube.com/watch?v=Vs1aZJpXDog) and my [slides](https://docs.google.com/presentation/d/e/2PACX-1vTTyyC6HQu-mKtJqtjznhpPbSJ647nQB2F3XqasY6jsFTe-0reUg9k1oOgAWwxuBskv4Zsvgy0sRGsu/pub?start=false&loop=false&delayms=3000#slide=id.p) are online.
+
 ## June 2022
+
+Sleeping Through The Pandemic was presented at [Console-ing Passions](https://www.console-ingpassions.org/) conference curated by Anastasia Salter for University of Central Florida in Orlando. 
 
 ## May 2022
 
