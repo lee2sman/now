@@ -9,7 +9,7 @@ I'm a professor of New Media and Computer Science at [Purchase College](https://
 
 ### Code sketching
 
-For the past 3 1/2 years I've engaged in [code sketching](https://leetusman.com/everyday/). Almost every day I work on my projects in a ‘code-sketching’ kind of way. Like a painter in their studio, I work on these sequentially, trying new things, iterating on past projects, or striking into new territory. Most often these are web-based artworks, but also archives, tools, zines, games or other experiments. Some of these grow into larger projects and others stay as small sketches.
+For the past 3 1/2 years I've engaged in [code sketching](https://leetusman.com/everyday/). Almost every day I work on my projects. Like a painter in their studio I work on these sequentially, trying new things, iterating on past projects, or striking into new territory. Most often these are web-based artworks, but also archives, tools, zines, games, art fragments or other experiments. Some of these grow into larger projects and others stay as small sketches.
 
 ### Artists and Hackers
 
