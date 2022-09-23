@@ -5,7 +5,7 @@
 
 ### Research / Organizing
 
-I'm a professor of New Media and Computer Science at [Purchase College](https://www.purchase.edu/live/profiles/2060-lee-tusman). I am working on developing tools for DIY arts organizations and assisting in archiving, oral history, photogrammetry and other projects. See [ongoing project notes](https://github.com/lee2sman/archiving-artist-spaces/).
+I'm a professor of New Media and Computer Science at [Purchase College](https://www.purchase.edu/live/profiles/2060-lee-tusman). I am working on developing tools for DIY arts organizations and assisting in archiving, oral history, photogrammetry and other projects. See [ongoing project notes](https://leetusman.com/archiving-artist-spaces).
 
 ### Code sketching
 
@@ -20,6 +20,10 @@ A [podcast](https://www.artistsandhackers.org) that I'm hosting. For Season 2 I 
 [Babycastles](https://www.babycastles.com) is a 10+ year NYC based collective fostering and amplifying diverse voices in videogame culture. We've held 25+ workshops so far since the start of the pandemic. Topics: livecoding, game design, goal-setting, writing grants, protester safety, and more.  [Video archive](https://www.youtube.com/playlist?list=PLJzpMnmDTJIUBNOpzI5qdPJ1cXhITBSq-) 
 
 # THEN
+
+# September 2022
+
+Working on Archiving Artist Spaces (Little Berlin, GAS and Flux archives in progress). And Artists and Hackers podcast season 2!
 
 ## August 2022
 
