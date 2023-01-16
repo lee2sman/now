@@ -21,9 +21,13 @@ A [podcast](https://www.artistsandhackers.org) that I'm hosting. For Season 2 I 
 
 # THEN
 
-# September 2022
+## Winter 2023
 
-Working on Archiving Artist Spaces (Little Berlin, GAS and Flux archives in progress). And Artists and Hackers podcast season 2!
+Received a NEA grant in collaboration with New Media Caucus to support a season of podcast programming, live event, online exhibit and related programming.
+
+## Fall 2022
+
+Working on Archiving Artist Spaces (Little Berlin, GAS and Flux archives in progress). And Artists and Hackers podcast season 2. Also took time to recover from a surgery.
 
 ## August 2022
 
