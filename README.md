@@ -23,7 +23,9 @@ A [podcast](https://www.artistsandhackers.org) that I'm hosting. For Season 2 I 
 
 ## Winter 2023
 
-Received a NEA grant in collaboration with New Media Caucus to support a season of podcast programming, live event, online exhibit and related programming.
+Received a NEA grant in collaboration with New Media Caucus to support a season of podcast programming, live event, online exhibit and related programming. 
+
+[Distances](https://archive.org/details/distances-public-domain/Distances.mp4) screens as part of the [Public Domain Day 2023](https://blog.archive.org/2022/11/30/the-best-things-in-life-are-free-two-ways-to-celebrate-public-domain-day-in-2023/) festivities at the Internet Archive. 
 
 ## Fall 2022
 
