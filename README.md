@@ -25,7 +25,9 @@ A [podcast](https://www.artistsandhackers.org) that I'm hosting. For Season 2 I 
 
 Received a NEA grant in collaboration with New Media Caucus to support a season of podcast programming, live event, online exhibit and related programming. 
 
-[Distances](https://archive.org/details/distances-public-domain/Distances.mp4) screens as part of the [Public Domain Day 2023](https://blog.archive.org/2022/11/30/the-best-things-in-life-are-free-two-ways-to-celebrate-public-domain-day-in-2023/) festivities at the Internet Archive. 
+[Distances](https://archive.org/details/distances-public-domain/Distances.mp4), created in collaboration with artist Amelia Marzec, screens as part of the [Public Domain Day 2023](https://blog.archive.org/2022/11/30/the-best-things-in-life-are-free-two-ways-to-celebrate-public-domain-day-in-2023/) festivities at the Internet Archive. 
+
+I lead a workshop at the [Digital Literature for Social Good Unconference](https://newmediawritingprize.co.uk/unconference/), hosted by Bournemouth University (UK) in partnership with the Electronic Literature Organization and the British Library January 17 and 18.
 
 ## Fall 2022
 
