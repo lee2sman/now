@@ -21,11 +21,23 @@ A [podcast](https://www.artistsandhackers.org) that I'm hosting. For Season 2 I 
 
 # THEN
 
+## Spring 2023
+
+Built [Gas gallery archive](https://gas.gallery), with Caleb Stone, with help from Andrew LeClair.
+
+Leading a workshop on archiving artist-run spaces at [ISEA 2023](https://isea2023.isea-international.org/) in Paris.
+
+Leading a workshop on archiving artist-run spaces, as well as presenting an exhibit of archives, at [HASTAC 2023](https://hastac2023.org/) at Pratt in NYC.
+
+Guest lecture at [SAIC Art and Technology](https://www.saic.edu/academics/departments/art-and-technology-studies) Studies program.
+
+Performing [Experimental Music](https://mamatriedbk.com/upcoming-events/experimental-music) at Mama Tried, Brooklyn.
+
 ## Winter 2023
 
 Received a NEA grant in collaboration with New Media Caucus to support a season of podcast programming, live event, online exhibit and related programming. 
 
-[Distances](https://archive.org/details/distances-public-domain/Distances.mp4), created in collaboration with artist Amelia Marzec, screens as part of the [Public Domain Day 2023](https://blog.archive.org/2022/11/30/the-best-things-in-life-are-free-two-ways-to-celebrate-public-domain-day-in-2023/) festivities at the Internet Archive. 
+[Distances](https://archive.org/details/distances-public-domain/Distances.mp4), created in collaboration with artist Amelia Marzec for [Public Domain Day 2023](https://blog.archive.org/2022/11/30/the-best-things-in-life-are-free-two-ways-to-celebrate-public-domain-day-in-2023/) at the Internet Archive.
 
 I lead a workshop at the [Digital Literature for Social Good Unconference](https://newmediawritingprize.co.uk/unconference/), hosted by Bournemouth University (UK) in partnership with the Electronic Literature Organization and the British Library January 17 and 18.
 
