@@ -21,6 +21,14 @@ A [podcast](https://www.artistsandhackers.org) that I'm hosting. For Season 2 I 
 
 # THEN
 
+## Summer 2023
+
+Writing open source curriculum for Programming Games with Lua at Purchase College.
+
+Residency with Flux Factory on Governor's Island.
+
+Ongoing work on Archiving Artist-Run Spaces and Artists and Hackers podcast.
+
 ## Spring 2023
 
 Built [Gas gallery archive](https://gas.gallery), with Caleb Stone, with help from Andrew LeClair.
