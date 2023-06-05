@@ -27,7 +27,7 @@ Writing open source curriculum for Programming Games with Lua at Purchase Colleg
 
 Residency with Flux Factory on Governor's Island.
 
-Ongoing work on Archiving Artist-Run Spaces and Artists and Hackers podcast.
+Ongoing work on Archiving Artist-Run Spaces and Artists and Hackers podcast. Presenting at HASTAC, ISEA and additional public talks.
 
 ## Spring 2023
 
