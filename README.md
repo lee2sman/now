@@ -1,13 +1,18 @@
-*current projects log* 
+# Now
 
 => [home](..)
+=> [projects](/projects)
+=> [now](.)
+=> [resources](/resources)
 => [blog](/nosebook)
+
+*working projects log*
 
 ### Research / Organizing
 
 I'm a professor of New Media and Computer Science at [Purchase College](https://www.purchase.edu/live/profiles/2060-lee-tusman). I am working on developing tools for DIY arts organizations and assisting in archiving, oral history, photogrammetry and other projects. See [ongoing project notes](https://leetusman.com/archiving-artist-spaces).
 
-### My studio practice
+### Studio practice
 
 My work often begins as [code sketching](https://leetusman.com/everyday/) , the process of working on art projects in code, iteratively refining in an exploratory and experimental manner. I use a variety of languages and tools, many self-created, but others from the open source art and code community. I work on these sequentially, trying new things, iterating on past projects, or striking into new territory. Most often these are web-based artworks, but also archives, tools, zines, games, art fragments or other experiments. Some of these grow into larger projects that have been presented publicly while others stay as small sketches or demos.
 
@@ -16,7 +21,7 @@ My work often begins as [code sketching](https://leetusman.com/everyday/) , the 
 A [podcast](https://www.artistsandhackers.org) that I'm hosting. Current collaborations are with the New Media Caucus and the Engelberg Center on Innovation Law and Policy.
 
 
-# THEN
+# Then
 
 ## Summer 2023
 
