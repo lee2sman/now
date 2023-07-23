@@ -1,23 +1,20 @@
-
-*working projects log* 
+*current projects log* 
 
 => [home](..)
+=> [blog](/nosebook)
 
 ### Research / Organizing
 
 I'm a professor of New Media and Computer Science at [Purchase College](https://www.purchase.edu/live/profiles/2060-lee-tusman). I am working on developing tools for DIY arts organizations and assisting in archiving, oral history, photogrammetry and other projects. See [ongoing project notes](https://leetusman.com/archiving-artist-spaces).
 
-### Code sketching
+### My studio practice
 
-For the past 3 1/2 years I've engaged in [code sketching](https://leetusman.com/everyday/). Almost every day I work on my projects. Like a painter in their studio I work on these sequentially, trying new things, iterating on past projects, or striking into new territory. Most often these are web-based artworks, but also archives, tools, zines, games, art fragments or other experiments. Some of these grow into larger projects and others stay as small sketches.
+My work often begins as [code sketching](https://leetusman.com/everyday/) , the process of working on art projects in code, iteratively refining in an exploratory and experimental manner. I use a variety of languages and tools, many self-created, but others from the open source art and code community. I work on these sequentially, trying new things, iterating on past projects, or striking into new territory. Most often these are web-based artworks, but also archives, tools, zines, games, art fragments or other experiments. Some of these grow into larger projects that have been presented publicly while others stay as small sketches or demos.
 
 ### Artists and Hackers
 
-A [podcast](https://www.artistsandhackers.org) that I'm hosting. For Season 2 I worked with the Engelberg Center for Innovation Law and Policy.
+A [podcast](https://www.artistsandhackers.org) that I'm hosting. Current collaborations are with the New Media Caucus and the Engelberg Center on Innovation Law and Policy.
 
-### Babycastles 
-
-[Babycastles](https://www.babycastles.com) is a 10+ year NYC based collective fostering and amplifying diverse voices in videogame culture. We've held 25+ workshops so far since the start of the pandemic. Topics: livecoding, game design, goal-setting, writing grants, protester safety, and more.  [Video archive](https://www.youtube.com/playlist?list=PLJzpMnmDTJIUBNOpzI5qdPJ1cXhITBSq-) 
 
 # THEN
 
@@ -25,9 +22,11 @@ A [podcast](https://www.artistsandhackers.org) that I'm hosting. For Season 2 I 
 
 Writing open source curriculum for Programming Games with Lua at Purchase College.
 
-Residency with Flux Factory on Governor's Island.
+Residency with Flux Factory on Governor's Island. As well, I'm presenting 232henley as part of the exhibition Feralpy.
 
-Ongoing work on Archiving Artist-Run Spaces and Artists and Hackers podcast. Presenting at HASTAC, ISEA and additional public talks.
+Ongoing work on Archiving Artist-Run Spaces and Artists and Hackers podcast. Presenting at conferences HASTAC, ISEA, Center for Concrete and  Abstract Machines, and in additional public talks.
+
+Performance at Wonderville.
 
 ## Spring 2023
 
@@ -205,4 +204,6 @@ I've created an esoteric modular synth setup for generative music creation, incl
 
 ### Teaching
 
-I'm a professor of New Media and Computer Science at [Purchase College](https://www.purchase.edu/live/profiles/2060-lee-tusman). I'm currently on junior sabbatical.
+I'm a professor of New Media and Computer Science at [Purchase College](https://www.purchase.edu/live/profiles/2060-lee-tusman). 
+
+[Babycastles](https://www.babycastles.com) is a 10+ year NYC based collective fostering and amplifying diverse voices in videogame culture. We've held 25+ workshops so far since the start of the pandemic. Topics: livecoding, game design, goal-setting, writing grants, protester safety, and more.  [Video archive](https://www.youtube.com/playlist?list=PLJzpMnmDTJIUBNOpzI5qdPJ1cXhITBSq-) 
