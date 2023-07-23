@@ -7,6 +7,10 @@
 
 *working projects log*
 
+## Exhibition
+
+232henley and Untitled are part of the exhibition [Feralpy](https://www.fluxfactory.org/feralpy-group-exhibition/) at Flux Factory on Governor's Island in New York.
+
 ### Research / Organizing
 
 I'm a professor of New Media and Computer Science at [Purchase College](https://www.purchase.edu/live/profiles/2060-lee-tusman). I am working on developing tools for DIY arts organizations and assisting in archiving, oral history, photogrammetry and other projects. See [ongoing project notes](https://leetusman.com/archiving-artist-spaces).
