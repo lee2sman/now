@@ -5,15 +5,18 @@
 => [resources](/resources)
 => [blog](/nosebook)
 
-*working projects log*
+*current working projects log*
 
-## Exhibition
+## Exhibition/Publication
 
-232henley and Untitled are part of the exhibition [Feralpy](https://www.fluxfactory.org/feralpy-group-exhibition/) at Flux Factory on Governor's Island in New York.
+Exocolony, an experimental grotesque narrative sci-fi experienced via filling out Google Forms is now online, [published by ORAL.pub](http://oral.pub/).
+
 
 ### Research / Organizing
 
-I'm a professor of New Media and Computer Science at [Purchase College](https://www.purchase.edu/live/profiles/2060-lee-tusman). I am working on developing tools for DIY arts organizations and assisting in archiving, oral history, photogrammetry and other projects. See [ongoing project notes](https://leetusman.com/archiving-artist-spaces).
+I'm a professor of New Media and Computer Science at [Purchase College](https://www.purchase.edu/live/profiles/2060-lee-tusman). I am working on developing support for artist-run groups to do archiving and digital preservation work along with oral history. See [ongoing project notes](https://leetusman.com/archiving-artist-spaces). Currently working with Flux Factory.
+
+I am co-editing an upcoming issue of Hyperrhiz: New Media Cultures, online culture of electronic literature, new media criticism and net art.
 
 ### Studio practice
 
@@ -25,6 +28,10 @@ A [podcast](https://www.artistsandhackers.org) that I'm hosting. Current collabo
 
 
 # Then
+
+## August 2023
+
+232henley and Untitled are part of the exhibition [Feralpy](https://www.fluxfactory.org/feralpy-group-exhibition/) at Flux Factory on Governor's Island in New York.
 
 ## Summer 2023
 
@@ -38,7 +45,7 @@ Performance at Wonderville.
 
 ## Spring 2023
 
-Built [Gas gallery archive](https://gas.gallery), with Caleb Stone, with help from Andrew LeClair.
+Published [Gas gallery archive](https://gas.gallery), with Caleb Stone, with help from Andrew LeClair, a commission by Gas's Director Ceci Moss. See more info on the ongoing [Archiving Artist-Run Spaces project](https://leetusman.com/archiving-artist-spaces/).
 
 Leading a workshop on archiving artist-run spaces at [ISEA 2023](https://isea2023.isea-international.org/) in Paris.
 
