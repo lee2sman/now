@@ -14,7 +14,7 @@ Exocolony, an experimental grotesque narrative sci-fi experienced via filling ou
 
 ### Research / Organizing
 
-I'm a professor of New Media and Computer Science at [Purchase College](https://www.purchase.edu/live/profiles/2060-lee-tusman). I am working on developing support for artist-run groups to do archiving and digital preservation work along with oral history. See [ongoing project notes](https://leetusman.com/archiving-artist-spaces). Currently working with Flux Factory.
+I'm a professor of New Media and Computer Science at [Purchase College](https://www.purchase.edu/live/profiles/2060-lee-tusman). Summer 2023 I developed an open educational resources curriculum for a [Programming Games](/programming-games) course based on open source and creative commons materials. I am also working on developing support for artist-run groups to do archiving and digital preservation work along with oral history. See [ongoing project notes](https://leetusman.com/archiving-artist-spaces). Currently working with Flux Factory.
 
 I am co-editing an upcoming issue of Hyperrhiz: New Media Cultures, online culture of electronic literature, new media criticism and net art.
 
