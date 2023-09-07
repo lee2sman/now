@@ -7,25 +7,15 @@
 
 *current working projects log*
 
-## Exhibition/Publication
-
 Exocolony, an experimental grotesque narrative sci-fi experienced via filling out Google Forms is now online, [published by ORAL.pub](http://oral.pub/).
 
+I'm a professor of New Media and Computer Science at [Purchase College](https://www.purchase.edu/live/profiles/2060-lee-tusman). Summer 2023 I developed an open educational resources curriculum for a [Programming Games](/programming-games) course based on open source and creative commons materials. I'm currently teaching "Social Software" and "Programming for Visual Artists."
 
-### Research / Organizing
-
-I'm a professor of New Media and Computer Science at [Purchase College](https://www.purchase.edu/live/profiles/2060-lee-tusman). Summer 2023 I developed an open educational resources curriculum for a [Programming Games](/programming-games) course based on open source and creative commons materials. I am also working on developing support for artist-run groups to do archiving and digital preservation work along with oral history. See [ongoing project notes](https://leetusman.com/archiving-artist-spaces). Currently working with Flux Factory.
+I'm working on developing support for artist-run groups to do archiving and digital preservation work along with oral history. See [ongoing project notes](https://leetusman.com/archiving-artist-spaces). Currently working with Flux Factory.
 
 I am co-editing an upcoming issue of Hyperrhiz: New Media Cultures, online culture of electronic literature, new media criticism and net art.
 
-### Studio practice
-
-My work often begins as [code sketching](https://leetusman.com/everyday/) , the process of working on art projects in code, iteratively refining in an exploratory and experimental manner. I use a variety of languages and tools, many self-created, but others from the open source art and code community. I work on these sequentially, trying new things, iterating on past projects, or striking into new territory. Most often these are web-based artworks, but also archives, tools, zines, games, art fragments or other experiments. Some of these grow into larger projects that have been presented publicly while others stay as small sketches or demos.
-
-### Artists and Hackers
-
-A [podcast](https://www.artistsandhackers.org) that I'm hosting. Current collaborations are with the New Media Caucus and the Engelberg Center on Innovation Law and Policy.
-
+I founded and host the [Artists and Hackers podcast](https://www.artistsandhackers.org), which I work on with Max Ludlow. Current collaborations are with the New Media Caucus and the Engelberg Center on Innovation Law and Policy.
 
 # Then
 
