@@ -7,6 +7,22 @@
 
 *current working projects log*
 
+I am co-editing an [upcoming issue of Hyperrhiz: New Media Cultures](https://www.newmediacaucus.org/hyperrhiz-journal-open-call-blanket-forts-and-other-assemblages/?mc_cid=c03e102194), online culture of electronic literature, new media criticism and net art.
+
+For the [Artists and Hackers podcast](https://www.artistsandhackers.org) I'm wrapping up production of a season of new episodes on copyright, creative commons, public domain, licenses, codes of conduct, local contexts, fair use and more.
+
+Completed a NaNoGenMo entry [The Library of Sir Herbert Quain](https://github.com/lee2sman/library-of-sir-herbert-quain/tree/main). *A list of books, pamphlets, zines and assorted publications consisting of rants, screeds, denouncements, manifestos, disagreements, rejoinders and more.*
+
+Wrapping up production of computational poetry for [Taper online literary journal](https://taper.badquar.to/), issue #11 *Parallels*. 
+
+Currently in production on a family oral history project.
+
+# Then
+
+## Fall 2023
+
+My four 'drek' emoji proposals were included in [DIRTY SIGNS](https://www.fluxfactory.org/dirty-signs-dirt-emoji-think-tank-open-call/) for the Emoji Think Tank, and documentation will be included for proposing a 'dirt' emoji to the Unicode Foundation.
+
 Exocolony, an experimental grotesque narrative sci-fi experienced via filling out Google Forms is now online, [published by ORAL.pub](http://oral.pub/).
 
 I'm a professor of New Media and Computer Science at [Purchase College](https://www.purchase.edu/live/profiles/2060-lee-tusman). Summer 2023 I developed an open educational resources curriculum for a [Programming Games](/programming-games) course based on open source and creative commons materials. I'm currently teaching "Social Software" and "Programming for Visual Artists."
@@ -16,8 +32,6 @@ I'm working on developing support for artist-run groups to do archiving and digi
 I am co-editing an upcoming issue of Hyperrhiz: New Media Cultures, online culture of electronic literature, new media criticism and net art.
 
 I founded and host the [Artists and Hackers podcast](https://www.artistsandhackers.org), which I work on with Max Ludlow. Current collaborations are with the New Media Caucus and the Engelberg Center on Innovation Law and Policy.
-
-# Then
 
 ## August 2023
 
