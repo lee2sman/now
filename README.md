@@ -7,6 +7,8 @@
 
 *current working projects log*
 
+Floor from Messlife is exhibited in [Reverse Tar Pit](https://www.onx.studio/onx-programming/new-art-city-reverse-tar-pit) at ONX Studio in New York and online in [New Art City]((https://newart.city/show/rtp4) as part of The Wrong Biennale.
+
 I am co-editing an [upcoming issue of Hyperrhiz: New Media Cultures](https://www.newmediacaucus.org/hyperrhiz-journal-open-call-blanket-forts-and-other-assemblages/?mc_cid=c03e102194), online culture of electronic literature, new media criticism and net art.
 
 For the [Artists and Hackers podcast](https://www.artistsandhackers.org) I'm wrapping up production of a season of new episodes on copyright, creative commons, public domain, licenses, codes of conduct, local contexts, fair use and more.
