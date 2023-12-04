@@ -17,7 +17,7 @@ Completed a NaNoGenMo entry [The Library of Sir Herbert Quain](https://github.co
 
 Wrapping up production of computational poetry for [Taper online literary journal](https://taper.badquar.to/), issue #11 *Parallels*. 
 
-Currently in production on a family oral history project.
+In December I'm participating in the online, decentralized [DecemberAdventure](https://eli.li/december-adventure) where folks work on coding projects every day, and I'm keeping a [log](https://leetusman.com/december-adventure-2023/).
 
 # Then
 
