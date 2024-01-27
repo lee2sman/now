@@ -7,6 +7,10 @@
 
 *current working projects log*
 
+Created DJ Hot Pot software instrument (with Amelia Marzec and Rebecca Hui) for Bok Joy release party at the Explorers Club Feb 1.
+
+Performance at Thermostat in Brooklyn, Feb 2.
+
 Floor from Messlife is exhibited in [Reverse Tar Pit](https://www.onx.studio/onx-programming/new-art-city-reverse-tar-pit) at ONX Studio in New York and online in [New Art City](https://newart.city/show/rtp4) as part of The Wrong Biennale.
 
 I am co-editing an [upcoming issue of Hyperrhiz: New Media Cultures](https://www.newmediacaucus.org/hyperrhiz-journal-open-call-blanket-forts-and-other-assemblages/?mc_cid=c03e102194), online culture of electronic literature, new media criticism and net art.
