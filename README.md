@@ -7,21 +7,21 @@
 
 *current working projects log*
 
-Created DJ Hot Pot software instrument (with Amelia Marzec and Rebecca Hui) for Bok Joy release party at the Explorers Club Feb 1.
+I created DJ Hot Pot software instrument (with Amelia Marzec and Rebecca Hui) for Bok Joy release party at the Explorers Club (NYC) Feb 1. It was performed live with a controller made from Makey Makey and fish balls, lotus root, bamboo, bok choy, mushroom. Software written in p5.js. [github](https://github.com/lee2sman/bokjoy)
 
-Performance at Thermostat in Brooklyn, Feb 2.
+I performed experimental music on modular synth at Thermostat in Brooklyn, Feb 2.
 
-Floor from Messlife is exhibited in [Reverse Tar Pit](https://www.onx.studio/onx-programming/new-art-city-reverse-tar-pit) at ONX Studio in New York and online in [New Art City](https://newart.city/show/rtp4) as part of The Wrong Biennale.
+Floor from Messlife is exhibited in [Reverse Tar Pit](https://www.onx.studio/onx-programming/new-art-city-reverse-tar-pit) at ONX Studio in New York, and as part of [Reverse Tar Pit: Sludge Room](https://reversetarpit.newart.city/)a at Brooklyn Neigborhood arts and online in [New Art City](https://newart.city/show/rtp4) as part of The Wrong Biennale.
 
-I am co-editing an [upcoming issue of Hyperrhiz: New Media Cultures](https://www.newmediacaucus.org/hyperrhiz-journal-open-call-blanket-forts-and-other-assemblages/?mc_cid=c03e102194), online culture of electronic literature, new media criticism and net art.
+I am co-editing an [issue of Hyperrhiz: New Media Cultures](https://www.newmediacaucus.org/hyperrhiz-journal-open-call-blanket-forts-and-other-assemblages/?mc_cid=c03e102194), online culture of electronic literature, new media criticism and net art.
 
-For the [Artists and Hackers podcast](https://www.artistsandhackers.org) I'm wrapping up production of a season of new episodes on copyright, creative commons, public domain, licenses, codes of conduct, local contexts, fair use and more.
+In February I began a new season of the [Artists and Hackers podcast](https://www.artistsandhackers.org) with assistance from the NYU Engelberg Center. These episodes concentrate on copyright, creative commons, public domain, licenses, codes of conduct, local contexts, fair use and more.
 
-Completed a NaNoGenMo entry [The Library of Sir Herbert Quain](https://github.com/lee2sman/library-of-sir-herbert-quain/tree/main). *A list of books, pamphlets, zines and assorted publications consisting of rants, screeds, denouncements, manifestos, disagreements, rejoinders and more.*
+I completed a NaNoGenMo entry [The Library of Sir Herbert Quain](https://github.com/lee2sman/library-of-sir-herbert-quain/tree/main) in November. *A list of books, pamphlets, zines and assorted publications consisting of rants, screeds, denouncements, manifestos, disagreements, rejoinders and more.*
 
-Wrapping up production of computational poetry for [Taper online literary journal](https://taper.badquar.to/), issue #11 *Parallels*. 
+Computational poetry work [Going the Distance](https://taper.badquar.to/11/going_the_distance.html) presented in [Taper online literary journal](https://taper.badquar.to/), issue #11 *Parallels*. 
 
-In December I'm participating in the online, decentralized [DecemberAdventure](https://eli.li/december-adventure) where folks work on coding projects every day, and I'm keeping a [log](https://leetusman.com/december-adventure-2023/).
+In December I participated in the online, decentralized [DecemberAdventure](https://eli.li/december-adventure) where folks work on coding projects every day. I kept a [log](https://leetusman.com/december-adventure-2023/).
 
 # Then
 
