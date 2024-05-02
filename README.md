@@ -7,6 +7,20 @@
 
 *current working projects log*
 
+Season 3 of [Artists and Hackers](https://artistsandhackers.org) came out.
+
+Guest artist talks at NYI ITP Coding Lab and Tisch Collaborative Arts.
+
+Finalist for UCLA UCSD ICC workshop grant.
+
+College Art Association panel on "3d Worldbuilding: Contexts, Narratives, Pedagogies." 
+
+Critical Code Studies 2024.
+
+# Then
+
+## Spring 2024
+
 I created DJ Hot Pot software instrument (with Amelia Marzec and Rebecca Hui) for Bok Joy release party at the Explorers Club (NYC) Feb 1. It was performed live with a controller made from Makey Makey and fish balls, lotus root, bamboo, bok choy, mushroom. Software written in p5.js. [github](https://github.com/lee2sman/bokjoy)
 
 I performed experimental music on modular synth at Thermostat in Brooklyn, Feb 2.
@@ -22,8 +36,6 @@ I completed a NaNoGenMo entry [The Library of Sir Herbert Quain](https://github.
 Computational poetry work [Going the Distance](https://taper.badquar.to/11/going_the_distance.html) presented in [Taper online literary journal](https://taper.badquar.to/), issue #11 *Parallels*. 
 
 In December I participated in the online, decentralized [DecemberAdventure](https://eli.li/december-adventure) where folks work on coding projects every day. I kept a [log](https://leetusman.com/december-adventure-2023/).
-
-# Then
 
 ## Fall 2023
 
