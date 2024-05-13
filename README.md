@@ -17,6 +17,8 @@ College Art Association panel on "3d Worldbuilding: Contexts, Narratives, Pedago
 
 Critical Code Studies 2024.
 
+Working on a few games including a command line text adventure "resource management" game on "non-hierarchical consensus groups" and a "programming roguelike" game for Pico-8.
+
 # Then
 
 ## Spring 2024
