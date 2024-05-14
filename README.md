@@ -15,7 +15,9 @@ Finalist for UCLA UCSD ICC workshop grant.
 
 College Art Association panel on "3d Worldbuilding: Contexts, Narratives, Pedagogies." 
 
-Critical Code Studies 2024.
+Critical Code Studies 2024 Working Group participant.
+
+Performances and organizing at Brooklyn Neighorhood Arts for [Reverse Tar Pit #SludgeRoom](https://reversetarpit.newart.city/). Performances at Thermostat (Brooklyn) and at Picture Theory Gallery (Chelsea) for the opening of 37x21x21.
 
 Working on a few games including a command line text adventure "resource management" game on "non-hierarchical consensus groups" and a "programming roguelike" game for Pico-8.
 
