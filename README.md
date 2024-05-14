@@ -19,6 +19,8 @@ Critical Code Studies 2024.
 
 Working on a few games including a command line text adventure "resource management" game on "non-hierarchical consensus groups" and a "programming roguelike" game for Pico-8.
 
+Distances, co-created with Amelia Marzec, is screening in the [Cauldron International Film and Video Festival](https://www.cauldronfilmfestival.com/) May 23-26 in Salt Lake City.
+
 # Then
 
 ## Spring 2024
