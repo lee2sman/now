@@ -203,15 +203,9 @@ Self-Doubting System - new work commissioned for the online exhibit [Generative 
 
 ## February 2021
 
-### [List of Games I'd Like to Play and/or Make](https://notapipe.itch.io/games-id-like-to-play-andor-make)  
-
-for [List Jam](https://itch.io/jam/list-jam)
-
-### Geminut
+[List of Games I'd Like to Play and/or Make](https://notapipe.itch.io/games-id-like-to-play-andor-make) for [List Jam](https://itch.io/jam/list-jam)
 
 Created [Geminut](https://tildegit.org/exquisitecorp), a Gemini protocol to HTML and Markdown converter for translating a gemlog to a blog, website, documentation, etc
-
-### PLOGO
 
 I created an implementation of the turtle-drawing LOGO programming language called [PLOGO](https://tildegit.org/exquisitecorp/PLOGO) that I made in p5.js. It includes a retro mode and onscreen console log of the input file.
 
@@ -231,21 +225,12 @@ Started coding generative sketches of my dreams. An homage to LSD Dream Emulator
 
 ## December 2020
 
-#### Generative Unfoldings
-
 I created a generative self-playing project called Self-Doubting Systems for MIT [Center for Art, Science and Technology](https://arts.mit.edu/cast/). It will be featured in an online exhibition and printed book.
 
 ## November 2020
 
 I contributed two (very) short tabletop roleplaying games to the [Micro Fiction Games Jam](https://microfictiongames.neocities.org/2020/)
-
-## Etc
-
-### ExquisiteCorp: generative music systems
-
 I've created an esoteric modular synth setup for generative music creation, including a Teletype terminal that I code modular Turing Machines in. So far it's resulted in a number of [albums](https://exquisitecorp.bandcamp.com/) on Bandcamp but I hope to get up a site with more on the system, instructions, code. I wrote a [post](https://leetusman.com/nosebook/programing-patching) on my Nosebook about it.
-
-### Teaching
 
 I'm a professor of New Media and Computer Science at [Purchase College](https://www.purchase.edu/live/profiles/2060-lee-tusman). 
 
