@@ -209,19 +209,13 @@ Created [Geminut](https://tildegit.org/exquisitecorp), a Gemini protocol to HTML
 
 I created an implementation of the turtle-drawing LOGO programming language called [PLOGO](https://tildegit.org/exquisitecorp/PLOGO) that I made in p5.js. It includes a retro mode and onscreen console log of the input file.
 
-### Art Homepage Fair
-
-IPDW, working with Arebyte AOS has organized an online art homepage fair. I built [collapsed texts](https://arthomepagefair.net/~lee/), an interactive experimental artwork and log that I am updating throughout the month.
+ Art Homepage Fair - IPDW, working with Arebyte AOS has organized an online art homepage fair. I built [collapsed texts](https://arthomepagefair.net/~lee/), an interactive experimental artwork and log that I am updating throughout the month.
 
 ## January 2021
 
-### Obscure Instructions MOTD
+Obscure Instructions MOTD - In the spring I created a web-based Obscure Instructions program, an homage to Oblique Strategies by Brian Eno / Peter Schmidt. [Obscure Instructions MOTD](https://tildegit.org/exquisitecorp/obscure-instructions-motd) is a command line "Message of the Day" node program to display one randomly as a "welcome" message.
 
-In the spring I created a web-based Obscure Instructions program, an homage to Oblique Strategies by Brian Eno / Peter Schmidt. [Obscure Instructions MOTD](https://tildegit.org/exquisitecorp/obscure-instructions-motd) is a command line "Message of the Day" node program to display one randomly as a "welcome" message.
-
-### LeeSD Dream Emulator
-
-Started coding generative sketches of my dreams. An homage to LSD Dream Emulator, which I'm waiting to actually try playing until after I code my own. I've started with a few generative dream sketches: [1](https://leetusman.com/everyday/161/) [2](https://leetusman.com/everyday/163/)
+LeeSD Dream Emulator - Started coding generative sketches of my dreams. An homage to LSD Dream Emulator, which I'm waiting to actually try playing until after I code my own. I've started with a few generative dream sketches: [1](https://leetusman.com/everyday/161/) [2](https://leetusman.com/everyday/163/)
 
 ## December 2020
 
@@ -231,6 +225,8 @@ I created a generative self-playing project called Self-Doubting Systems for MIT
 
 I contributed two (very) short tabletop roleplaying games to the [Micro Fiction Games Jam](https://microfictiongames.neocities.org/2020/)
 I've created an esoteric modular synth setup for generative music creation, including a Teletype terminal that I code modular Turing Machines in. So far it's resulted in a number of [albums](https://exquisitecorp.bandcamp.com/) on Bandcamp but I hope to get up a site with more on the system, instructions, code. I wrote a [post](https://leetusman.com/nosebook/programing-patching) on my Nosebook about it.
+
+## Etc
 
 I'm a professor of New Media and Computer Science at [Purchase College](https://www.purchase.edu/live/profiles/2060-lee-tusman). 
 
